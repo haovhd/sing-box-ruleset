@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "hinet.net",
+		"akamaized.net",
+		"ofiii.com",
+		"4gtv.tv",
+		"litv.tv"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "azip.dpdns.org",
+        "spartanhost.net",
+        "25u.com",
+        "docker.livednow.dpdns.org",
+		"itv.cmvideo.cn"
+      ],
+	  "ip_cidr": [
+        "60.248.127.232/24",
+		"117.158.166.73/24"
+	  ]
+    }
+  ]
+}
