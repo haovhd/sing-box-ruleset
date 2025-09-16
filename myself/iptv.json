@@ -15,6 +15,11 @@
 		"flkf22.225533.xyz",
 		"flkf1.225533.xyz"
       ],
+      "domain_suffix": [
+        "services.googleapis.cn",
+		"googleapis.cn",
+		"*xn--ngstr-lra8j.com"
+      ],
 	  "ip_cidr": [
         "67.229.243.13/32",
 		"51.158.148.5/32",
