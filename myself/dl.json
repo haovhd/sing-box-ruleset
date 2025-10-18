@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "nodeseek.com",
         "services.googleapis.cn",
 		"googleapis.cn",
 		"*xn--ngstr-lra8j.com"
