@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "smart.pendy.dpdns.org",
+        "sport.pendy.dpdns.org",
+        "docker.livednow.dpdns.org",
+        "4gtv.htv.dpdns.org",
+        "flkf3.225533.xyz",
+        "flkf3.225533.xyz",
+        "flkf3.225533.xyz"
+    ],
+      "domain_suffix": [
+        "zzm.li",
+        "okemby.org",
+        "bangumi.ca",
+        "cinetrail.live",
+        "miorina.com",
+        "hohai.eu.org",
+        "daidaio.com",
+        "n150.asia",
+        "fastcdn.dpdns.org",
+        "111660.xyz",
+        "ccwu.cc",
+        "us.ci",
+        "yusen.cyou",
+        ".xyz"
+    ],
+      "ip_cidr": [
+        "141.11.87.241/32",
+        "51.158.148.5/32",
+        "165.154.226.214/32",
+        "152.69.212.180/32"
+     ]
+    }
+  ]
+}
