@@ -5,8 +5,7 @@
       "domain": [
         "smart.pendy.dpdns.org",
         "sport.pendy.dpdns.org",
-        "docker.livednow.dpdns.org",
-        "4gtv.htv.dpdns.org"
+        "docker.livednow.dpdns.org"
     ],
       "domain_suffix": [
         "zzm.li",
@@ -23,12 +22,6 @@
         "us.ci",
         "yusen.cyou",
         ".xyz"
-    ],
-      "ip_cidr": [
-        "141.11.87.241/32",
-        "51.158.148.5/32",
-        "165.154.226.214/32",
-        "152.69.212.180/32"
      ]
     }
   ]
