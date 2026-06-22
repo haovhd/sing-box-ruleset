@@ -2,10 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "domain": [
-        "jdf2.225533.xyz",
-        "dj2.225533.xyz"
-    ],
       "domain_suffix": [
         "azip.dpdns.org",
         "spartanhost.net",
