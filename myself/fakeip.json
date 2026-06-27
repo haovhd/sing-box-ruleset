@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "xiaomi.com"
+      ],
+      "domain_suffix": [
+        "xiaomi.com",
+        "mi.com",
+        "miui.com",
+        "mijia.com",
+        "xiaomi.net",
+        "225533.xyz",
+        "services.googleapis.cn",
+        "googleapis.cn",
+        "*xn--ngstr-lra8j.com",
+        ".mijia.com",
+      ]
+    }
+  ]
+}
