@@ -2,6 +2,9 @@
   "version": 2,
   "rules": [
     {
+      "ip_cidr": [
+        "67.229.243.13/32"
+      ],
       "domain_suffix": [
         "uuhd.net",
         "hd-torrents.org",
