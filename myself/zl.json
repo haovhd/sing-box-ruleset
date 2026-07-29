@@ -11,6 +11,9 @@
         "docker.livednow.dpdns.org",
         "itv.cmvideo.cn"
       ],
+      "domain": [
+        "olist.225533.xyz"
+      ],
       "ip_cidr": [
         "60.248.127.232/24",
         "43.139.15.89/24",
