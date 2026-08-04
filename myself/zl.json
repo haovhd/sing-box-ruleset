@@ -9,7 +9,12 @@
         "25u.com",
         "apphot.cc",
         "docker.livednow.dpdns.org",
-        "itv.cmvideo.cn"
+        "itv.cmvideo.cn",
+        "123clouddisk.com",
+        "123pan.com",
+        "123pan.cn",
+        "115cdn.net",
+        "115.com"
       ],
       "domain": [
         "olist.225533.xyz",
@@ -21,10 +26,6 @@
         "43.139.15.89/24",
         "67.229.243.13/32"
       ],
-      "domain_keyword": [
-       "123",
-       "115"
-      ]
     }
   ]
 }
